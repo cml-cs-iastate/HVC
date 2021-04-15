@@ -2,14 +2,11 @@ import os
 import tensorflow as tf
 
 from src.NeuralNetworks.VGG16 import VGG_16
-from src.NeuralNetworks.VGG19 import VGG_19
-from src.NeuralNetworks.InceptionV3 import Inception_V3
 from src.NeuralNetworks.ResNet50 import ResNet_50
-from src.NeuralNetworks.DenseNet import DenseNet
 
 
 print(f'TensorFlow Version: {tf.__version__}')
-# print(f'List of GPU devices being utilized: {tf.config.list_physical_devices("GPU")}')
+print(f'List of GPU devices being utilized: {tf.config.list_physical_devices("GPU")}')
 
 # ----------------------------------------------------------------------------------------------------------------------
 # Data
