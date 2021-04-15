@@ -8,10 +8,10 @@
 
 
 # Dependencies
-Python 3
-numpy
-Tensorflow 2
-matplotlib
+- Python 3
+- numpy
+- Tensorflow 2
+- matplotlib
 
 
 # Citation
