@@ -6,6 +6,14 @@
 3. Run the src/Training/run.py to train the Hierarchical Visual Concept model.
 4. Run the src/Testing/run.py to generate the interpretation for the given images.
 
+
+# Dependencies
+Python 3
+numpy
+Tensorflow 2
+matplotlib
+
+
 # Citation
 M. Khaleel, W. Tavanapong, J. Wong, J. Oh, and P. C. De Groen, “Hierarchical Visual Concept Interpretation for Medical Image Detection,” 34th IEEE International Symposium on Computer-Based Medical Systems (CBMS), 2021, pp.** –**.
 
