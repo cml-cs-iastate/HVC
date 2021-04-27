@@ -19,7 +19,7 @@
 ```
 @article{khaleel2021hvc,
   title={Hierarchical Visual Concept Interpretation for Medical Image Classification},
-  author={Khaleel, Mohammed, and Tavanapong, Wallapak and Wong, Johnny and Oh, Junghwan and de Groen, Piet},
+  author={Khaleel, Mohammed and Tavanapong, Wallapak and Wong, Johnny and Oh, Junghwan and de Groen, Piet},
   journal={34th IEEE International Symposium on Computer-Based Medical Systems (CBMS)},
   year={2021}
 }
