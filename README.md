@@ -15,8 +15,15 @@
 
 
 # Citation
-M. Khaleel, W. Tavanapong, J. Wong, J. Oh, and P. C. De Groen, “Hierarchical Visual Concept Interpretation for Medical Image Detection,” 34th IEEE International Symposium on Computer-Based Medical Systems (CBMS), 2021, pp.** –**.
 
+```
+@article{khaleel2021hvc,
+  title={Hierarchical Visual Concept Interpretation for Medical Image Classification},
+  author={Khaleel, Mohammed, and Tavanapong, Wallapak and Wong, Johnny and Oh, Junghwan and de Groen, Piet},
+  journal={34th IEEE International Symposium on Computer-Based Medical Systems (CBMS)},
+  year={2021}
+}
+```
 
 # CONFLICT OF INTEREST AND AKNOWLEDGMENTS
 This work is partially supported by NIH Grant No. 1R01DK106130-01A1. Tavanapong, Wong, and Oh have equity interest and management roles in EndoMetric Corp. Dr. de Groen serves on the Scientific Advisory Board of EndoMetric Corp. Findings, opinions, and conclusions expressed in this paper do not necessarily reflect the view of the funding agency.
