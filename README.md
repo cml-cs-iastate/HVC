@@ -2,9 +2,9 @@
 
 # Code Execution
 1. Set the dataset, model, parameters, and hyper-parameter settings using src/settings.py.
-2. Run the run_baseline.py to train the baseline model.
-3. Run the run_training.py to train the Hierarchical Visual Concept model.
-4. Run the run_interpretation.py to generate the interpretation for the given images.
+2. Run the src/run_baseline.py to train the baseline model.
+3. Run the src/run_training.py to train the Hierarchical Visual Concept model.
+4. Run the src/run_interpretation.py to generate the interpretation for the given images.
 
 
 # Dependencies
