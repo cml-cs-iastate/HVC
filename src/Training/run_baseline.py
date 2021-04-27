@@ -3,9 +3,9 @@ import time
 
 from tensorflow.keras import models, optimizers, callbacks, utils
 
-import src.settings as settings
-from src.Utils.plot import plot_loss_accuracy
-from src.Utils.data_loader import generator_loader
+import settings as settings
+from Utils.plot import plot_loss_accuracy
+from Utils.data_loader import generator_loader
 
 total_history = {'loss': [], 'accuracy': [], 'val_loss': [], 'val_accuracy': []}
 
