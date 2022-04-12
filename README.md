@@ -1,4 +1,17 @@
-# Hierarchical Visual Concept (HVC)
+# Table of Contents:
+1 ) Supplementary Material for Section V.B of Artificial Intelligence for Colonoscopy: Past, Present, and Future paper 
+2 ) Hierarchical Visal Concept (HVC)
+
+=============================================================================================================================================================
+
+
+# 1 ) Supplementary Material for Section V.B of Artificial Intelligence for Colonoscopy: Past, Present, and Future paper 
+
+
+
+=============================================================================================================================================================
+
+# 2) Hierarchical Visual Concept (HVC)
 
 # Code Execution
 1. Set the dataset, model, parameters, and hyper-parameter settings using src/settings.py.
@@ -24,6 +37,8 @@
   year={2021}
 }
 ```
+
+
 
 # CONFLICT OF INTEREST AND AKNOWLEDGMENTS
 This work is partially supported by NIH Grant No. 1R01DK106130-01A1. Tavanapong, Wong, and Oh have equity interest and management roles in EndoMetric Corp. Dr. de Groen serves on the Scientific Advisory Board of EndoMetric Corp. Findings, opinions, and conclusions expressed in this paper do not necessarily reflect the view of the funding agency.
