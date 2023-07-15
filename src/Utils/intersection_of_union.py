@@ -1,7 +1,6 @@
 import numpy as np
 
-from Utils.grad_cam import grad_cam
-from Utils.utils import combine_heatmaps
+from src.Utils.utils import combine_heatmaps
 
 
 def iou(hvc_heatmap, cam_heatmap, epsilon=1e-5):

@@ -1,6 +1,6 @@
 import numpy as np
 
-from Utils.utils import combine_heatmaps
+from src.Utils.utils import combine_heatmaps
 
 
 def perturb_input(input_x, input_y, hvc_heatmap, vc_per_class, remove_important=False):

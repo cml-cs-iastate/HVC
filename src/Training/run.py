@@ -1,17 +1,16 @@
 import os
 import time
-import numpy as np
 import tensorflow as tf
 
 from tensorflow.keras import models, optimizers, backend as K, callbacks
 from tensorflow.keras.utils import plot_model
 
-import settings as settings
-from Utils.plot import plot_loss_accuracy
-from Utils.data_loader import generator_loader, multiple_outputs
-from Utils.loadHVCModel import load_hvc_model
-from Training.activation_and_loss import custom_loss
-from Utils.utils import get_layer_names
+import src.settings as settings
+from src.Utils.plot import plot_loss_accuracy
+from src.Utils.data_loader import generator_loader, multiple_outputs
+from src.Utils.loadHVCModel import load_hvc_model
+from src.Training.activation_and_loss import custom_loss
+from src.Utils.utils import get_layer_names
 
 
 # ----------------------------------------------------------------------------------------------------------------------

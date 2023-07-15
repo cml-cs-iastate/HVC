@@ -2,8 +2,8 @@ from tensorflow.keras import layers, models
 from tensorflow.keras.regularizers import l2
 from tensorflow.keras.applications.resnet50 import ResNet50
 
-from Utils.utils import custom_weights_init
-from VisualConcept.vcl import VCL
+from src.Utils.utils import custom_weights_init
+from src.VisualConcept.vcl import VCL
 
 
 def ResNet_50(num_classes, num_vc=0, dropout_rate=0, layer_to_vcl=5, p_h=1, p_w=1, total_sub_models_num=5):

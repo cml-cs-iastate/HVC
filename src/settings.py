@@ -6,7 +6,7 @@ from src.NeuralNetworks.ResNet50 import ResNet_50
 
 
 print(f'TensorFlow Version: {tf.__version__}')
-print(f'List of GPU devices being utilized: {tf.config.list_physical_devices("GPU")}')
+# print(f'List of GPU devices being utilized: {tf.config.list_physical_devices("GPU")}')
 
 # ----------------------------------------------------------------------------------------------------------------------
 # Data

@@ -2,8 +2,8 @@ import tensorflow as tf
 
 from tensorflow.keras import layers, backend as K
 
-from Utils.utils import distance_to_similarity
-from VisualConcept.vcl_interpretation import closest_patch_to_vc
+from src.Utils.utils import distance_to_similarity
+from src.VisualConcept.vcl_interpretation import closest_patch_to_vc
 
 
 class VCL(layers.Layer):
